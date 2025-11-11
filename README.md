@@ -36,7 +36,8 @@ Routes:
     POST       api/auth/register        create new user
 
 Tasks routes need Bearer Auth Jeton avec sanctum
-    GET        api/tasks                list user's connected all tasks 
+
+    GET        api/tasks                list user's connected all tasks
     POST       api/tasks                add new task for connected user
     GET        api/tasks/{task}         get one precised task of connected user
     PATCH      api/tasks/{task}         update precised task of connected user
