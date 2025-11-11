@@ -11,6 +11,7 @@ Stack used :
 Why Sanctum? Default included, adapted for APi first-party, API made and controled by the service provider.
 
 Setup install :
+1. Clone git repository 
 
 2. Install dependancies
 command :   composer install
